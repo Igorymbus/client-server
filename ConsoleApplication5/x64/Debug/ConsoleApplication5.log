@@ -1,0 +1,13 @@
+﻿  ConsoleApplication5.cpp
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_connect в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recv в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_send в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_shutdown в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAGetLastError в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_getaddrinfo в функции main.
+ConsoleApplication5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_freeaddrinfo в функции main.
+C:\Users\user\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
